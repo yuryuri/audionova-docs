@@ -86,7 +86,7 @@ const config: Config = {
             { label: 'Prompt Cheat Sheet', to: '/docs/prompt-cheat-sheet' },
             { label: 'Mixing Basics', to: '/docs/mixing-basics' },
             { label: 'Developer Notes', to: '/docs/developer-notes' },
-            { label: 'Creating a Track', to: '/docs/creating-and-a-track' },
+            { label: 'Creating a Track', to: '/docs/creating-and-mixing-a-track' },
             { label: 'Session Management', to: '/docs/session-management' },
             { label: 'Prompt Examples', to: '/docs/prompt-examples' },
             { label: 'File Requirements', to: '/docs/file-requirements' },
